@@ -4,6 +4,8 @@ My name is Miguel Reis, I'm an IT (Information Technology) systems student who i
 
 Other ways to reach me:
 
+Email: miguel_reis08@protonmail.com
+
 [LinkedIn](https://www.linkedin.com/in/miguel-reis-349317237/)
 
 [Youtube](https://www.youtube.com/channel/UCoJkAyfrYXu8O-dH32NZNMg)
