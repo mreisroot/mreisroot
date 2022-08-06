@@ -19,6 +19,3 @@ XMR (Monero):
 
 BTC (Bitcoin):
 bc1qnux46fnh7wf38vmg9u5exf8kc2xpmp9ykxghrp
-
-XNO (Nano):
-nano_3u569sfz5odzm9coj1cg8819355o7o8cgqfiuknciq4cudpg7pknczni8547
