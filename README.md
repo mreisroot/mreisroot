@@ -1,8 +1,10 @@
+### About Me
+
 Hey There, Git Community!
 
 My name is Miguel Reis, I'm an IT (Information Technology) systems student who is a radical lover of Open Source and Open Knowledge, and my mission here is to demystify these movements and make them accessible to the greatest number of people possible. Hope you enjoy my content! :)
 
-Other ways to reach me:
+### Social Media
 
 Email: miguel_reis08@protonmail.com
 
@@ -11,6 +13,8 @@ Email: miguel_reis08@protonmail.com
 [Youtube](https://www.youtube.com/channel/UCoJkAyfrYXu8O-dH32NZNMg)
 
 [Odysee](https://odysee.com/@mreis11:4)
+
+### Donations
 
 Do you like the content and want better quality? Please, buy me a coffee:
 
