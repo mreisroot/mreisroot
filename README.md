@@ -20,4 +20,4 @@ You can reach me at:
 
 Email: miguel_reis08@protonmail.com
 
-[LinkedIn](https://www.linkedin.com/in/miguel-reis-349317237/)
+[LinkedIn](https://www.linkedin.com/in/mreis11)
