@@ -1,6 +1,10 @@
 ## Hello! I am Miguel Reis
 
-♾️ I'm a DevOps/Cloud Engineer in preparation. ☁️
+Welcome to my GitHub profile!
+
+♾️ I'm a **DevOps/Cloud Engineer** in preparation. ☁️
+
+🌐 I'm interested in open source software, devops culture, Infrastructure as Code (IaC), agile methodologies, cloud computing and establishing collaborative relationships.
 
 <div align="center">
   <a href="https://github.com/mreis755">
