@@ -7,9 +7,9 @@ Welcome to my GitHub profile!
 🌐 I'm interested in open source software, devops culture, Infrastructure as Code (IaC), agile methodologies, cloud computing and establishing collaborative relationships.
 
 <div align="center">
-  <a href="https://github.com/miguelreisit">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=miguelreisit&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=miguelreisit&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/mg-reis">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mg-reis&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mg-reis&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
