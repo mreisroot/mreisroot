@@ -7,9 +7,9 @@ Welcome to my GitHub profile!
 🌐 I'm interested in open source software, devops culture, Infrastructure as Code (IaC), agile methodologies, cloud computing and establishing collaborative relationships.
 
 <div align="center">
-  <a href="https://github.com/mg-reis">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mg-reis&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mg-reis&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/mreisroot">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mreisroot&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mreisroot&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -35,7 +35,7 @@ Welcome to my GitHub profile!
 <div> 
   <a href = "mailto:miguel_reis08@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miguelreisit" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.gitlab.com/mg-reis" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=color"></a> 
+  <a href="https://www.gitlab.com/mreisroot" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=color"></a> 
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
