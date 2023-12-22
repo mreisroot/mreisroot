@@ -49,8 +49,8 @@ Welcome to my GitHub profile!
   <img align="center" alt="MReis-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg">
   <img align="center" alt="MReis-Vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
   <img align="center" alt="MReis-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" alt="MReis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MReis-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="MReis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MReis-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MReis-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="MReis-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
