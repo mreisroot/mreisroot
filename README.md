@@ -54,6 +54,7 @@ Welcome to my GitHub profile!
   <img align="center" alt="MReis-Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="MReis-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="MReis-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MReis-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="MReis-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="MReis-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg">
   <img align="center" alt="MReis-LaTeX" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg">
